@@ -1,0 +1,53 @@
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Bot Application.dll.config
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Bot Application.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Bot Application.pdb
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Autofac.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Chronic.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Bot.Builder.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Bot.Connector.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Protocols.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Newtonsoft.Json.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.Net.Http.Formatting.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.Web.Http.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.Web.Http.WebHost.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Autofac.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Bot.Builder.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Bot.Connector.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Protocols.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Newtonsoft.Json.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.Net.Http.Formatting.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.Web.Http.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\System.Web.Http.WebHost.xml
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\obj\Debug\Bot Application system final.csprojResolveAssemblyReference.cache
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\obj\Debug\Bot Application system final.csproj.CoreCompileInputs.cache
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\obj\Debug\Bot Application.dll
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\obj\Debug\Bot Application.pdb
+c:\users\yeeee\source\repos\Bot Application system final\Bot Application system final\bin\Microsoft.Rest.ClientRuntime.xml
